@@ -1,0 +1,14 @@
+
+.error-text {
+    color: #fb414e;
+}
+
+.response-text {
+    background-color:#bfbfbf;
+    color: rgb(68, 66, 66);
+    white-space: pre-wrap;
+    overflow-y: auto;
+    margin: 25px 10%;
+    padding:30px;
+    width: auto;
+}

@@ -1,0 +1,26 @@
+
+.FormContainer {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+    min-height: 15vh;
+    margin:20px 0 0 0;
+}
+
+.InputField {
+    max-width:15rem;
+}
+
+.FormContainer .formBtn{
+    padding:0.35em 1.2em;
+    border:0.1em solid #FFFFFF;
+    margin:0 0.3em;
+    border-radius:0.6em;
+    box-sizing: border-box;
+    text-decoration:none;
+}
+.FormContainer .formBtn:hover{
+    color:#fff;
+    background-color:#17a2b8;
+}
